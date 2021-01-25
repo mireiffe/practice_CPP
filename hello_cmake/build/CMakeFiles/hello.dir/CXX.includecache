@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/root/C++/practice_CPP/hello_cmake/src/hello.cc
+/root/C++/hello_cmake/src/hello.cc
 iostream
 -
 
