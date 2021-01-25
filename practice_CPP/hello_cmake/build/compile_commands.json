@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/C++/practice_CPP/hello_cmake/build",
+  "command": "g++    -g   -o CMakeFiles/hello.dir/src/hello.cc.o -c /root/C++/practice_CPP/hello_cmake/src/hello.cc",
+  "file": "/root/C++/practice_CPP/hello_cmake/src/hello.cc"
+}
+]
