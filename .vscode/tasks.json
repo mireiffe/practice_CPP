@@ -30,7 +30,7 @@
         {
             "type": "shell",
             "label": "execute",
-            "command": "cd ${fileDirname}/build && ./hello",
+            "command": "cd ${fileDirname}/build && ./run",
             "group": {
                 "kind": "test",
                 "isDefault": true
