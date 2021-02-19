@@ -5,14 +5,17 @@
 			"path": "hello_cmake"
 		},
 		{
-			"name": "GUI_Sine",
-			"path": "GUI/SineCurve"
+			"name": "Hello_eigen",
+			"path": "hello_eigen"
 		},
-		{
-			"path": ".vscode"
-		}
+		// {
+		// 	"path": ".vscode"
+		// }
 	],
 	"settings": {
+		"cmake.configureSettings": {
+			"CMAKE_TOOLCHAIN_FILE": "/root/Documents/C++/vcpkg/scripts/buildsystems/vcpkg.cmake"
+		},
 		"files.associations": {
 			"iostream": "cpp"
 		},
@@ -24,5 +27,5 @@
 			"**/.DS_Store": true,
 			"**.code-workspace": true
 		}
-	}
+	},
 }
