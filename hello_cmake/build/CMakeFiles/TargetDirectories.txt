@@ -1,3 +1,0 @@
-/root/Documents/C++/hello_cmake/build/CMakeFiles/rebuild_cache.dir
-/root/Documents/C++/hello_cmake/build/CMakeFiles/edit_cache.dir
-/root/Documents/C++/hello_cmake/build/CMakeFiles/hello.dir

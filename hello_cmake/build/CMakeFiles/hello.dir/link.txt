@@ -1,1 +1,0 @@
-g++  -O3 -DNDEBUG  -rdynamic CMakeFiles/hello.dir/src/hello.cc.o  -o hello 
